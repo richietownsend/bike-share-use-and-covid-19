@@ -6,6 +6,14 @@ bin-release/
 
 # Other files and folders
 .settings/
+data/Biketown PDX
+data/Chicago_Divvy
+data/LA Metro
+data/Nashville_B-Cycle
+data/NYC_CitiBike
+data/San Francisco
+data/Washington DC_capital_bikeshare
+Data/Nashville Budget
 
 # Executables
 *.swf
