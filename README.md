@@ -16,11 +16,17 @@ Bike share rideship was researched for the following cities:
 - [**Washington DC**](https://s3.amazonaws.com/capitalbikeshare-data/index.html)<br>
 [![capital](./assets/capitalbikeshare.png)](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
 - [**Portland**](https://s3.amazonaws.com/biketown-tripdata-public/index.html)<br>
-[![pdx](./assets/biketown.png)](https://s3.amazonaws.com/biketown-tripdata-public/index.html)
+[![pdx](./assets/biketown.png)](
+https://s3.amazonaws.com/biketown-tripdata-public/index.html)
 - [**Minneapolis**](https://s3.amazonaws.com/niceride-data/index.html)<br>
 [![niceride](./assets/niceride.png)](https://s3.amazonaws.com/niceride-data/index.html)
 - [**Boston**](https://s3.amazonaws.com/hubway-data/index.html)<br>
 [![bluebike](./assets/bluebike.png)](https://s3.amazonaws.com/hubway-data/index.html)
+
+**Data Provided By:**<br>
+![motivate](./assets/motivate2.png)<br>
+![lyft](./assets/lyft.png) <br>
+
 
 
 
