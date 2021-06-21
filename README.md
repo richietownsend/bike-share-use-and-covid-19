@@ -4,28 +4,28 @@ Having lived in Chicago for over a decade, riding a bike became my main form of 
 
 The question became: did ridership increase or decrease during the initial stages of COVID-19 at the beginning or March 2020, and how has that changed more than a year later?
 
-Bike share rideship was researched for the following cities:
+Bike share ridership was researched for the following cities:
 - [**Chicago**](https://divvy-tripdata.s3.amazonaws.com/index.html)<br>
-[![divvy](./assets/divvy.png)](https://divvy-tripdata.s3.amazonaws.com/index.html)
+[![divvy](./assets/divvy.png)](https://www.divvybikes.com/)
 - [**New York City**](https://s3.amazonaws.com/tripdata/index.html)<br>
-[![citi](./assets/citi.png)](https://s3.amazonaws.com/tripdata/index.html)
+[![citi](./assets/citi.png)](https://account.citibikenyc.com/access-plans)
 - [**San Francisco**](https://s3.amazonaws.com/baywheels-data/index.html)<br>
-[![bay](./assets/baywheels.png)](https://s3.amazonaws.com/baywheels-data/index.html)
+[![bay](./assets/baywheels.png)](https://www.lyft.com/bikes/bay-wheels)
 - [**Los Angeles**](https://bikeshare.metro.net/about/data/)<br>
-[![metro](./assets/metro.png)](https://bikeshare.metro.net/about/data/)
+[![metro](./assets/metro.png)](https://bikeshare.metro.net/)
 - [**Washington DC**](https://s3.amazonaws.com/capitalbikeshare-data/index.html)<br>
-[![capital](./assets/capitalbikeshare.png)](https://s3.amazonaws.com/capitalbikeshare-data/index.html)
+[![capital](./assets/capitalbikeshare.png)](https://www.capitalbikeshare.com/)
 - [**Portland**](https://s3.amazonaws.com/biketown-tripdata-public/index.html)<br>
-[![pdx](./assets/biketown.png)](
-https://s3.amazonaws.com/biketown-tripdata-public/index.html)
+[![pdx](./assets/biketown.png)](https://account.biketownpdx.com/access-plans)
 - [**Minneapolis**](https://s3.amazonaws.com/niceride-data/index.html)<br>
-[![niceride](./assets/niceride.png)](https://s3.amazonaws.com/niceride-data/index.html)
+[![niceride](./assets/niceride.png)](https://account.niceridemn.com/access-plans)
 - [**Boston**](https://s3.amazonaws.com/hubway-data/index.html)<br>
-[![bluebike](./assets/bluebike.png)](https://s3.amazonaws.com/hubway-data/index.html)
+[![bluebike](./assets/bluebike.png)](https://www.bluebikes.com/)
 
 **Data Provided By:**<br>
-![motivate](./assets/motivate2.png)<br>
-![lyft](./assets/lyft.png) <br>
+[![motivate](./assets/motivate2.png)](https://www.motivateco.com/) <br>
+[![lyft](./assets/lyft.png)](https://www.lyft.com/bikes) <br>
+[![metro](./assets/metro.png)](https://bikeshare.metro.net/)
 
 
 
