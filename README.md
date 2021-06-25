@@ -2,7 +2,7 @@
 Having lived in Chicago for over a decade, riding a bike became my main form of transportation to and from work. After reading an article from the [New York Times](https://www.nytimes.com/2020/03/14/nyregion/coronavirus-nyc-bike-commute.html
 ), I wondered how ridership changed in different cities throughout the United States, particularly urban environments with multiple forms of mass transit. 
 
-The question became: did ridership increase or decrease during the initial stages of COVID-19 at the beginning or March 2020, and how has that changed more than a year later?
+The question became: did ridership increase or decrease during the initial stages of COVID-19 at the beginning of March 2020, and how has that changed more than a year later?
 
 Bike share ridership was researched for the following cities:
 - **Chicago:** [**Data**](https://divvy-tripdata.s3.amazonaws.com/index.html)<br>
@@ -24,7 +24,7 @@ Bike share ridership was researched for the following cities:
 
 **Data Provided By:**<br>
 [![motivate](./assets/motivate2.png)](https://www.motivateco.com/) <br>
-[![metro](./assets/metro.png)](https://bikeshare.metro.net/)<br>
+
 [![lyft](./assets/lyft.png)](https://www.lyft.com/bikes) <br>
 
 
