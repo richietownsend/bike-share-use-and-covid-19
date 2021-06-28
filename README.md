@@ -4,7 +4,7 @@ Having lived in Chicago for over a decade, riding a bike became my main form of 
 
 The question became: Did ridership increase or decrease during the initial stages of COVID-19 at the beginning of March 2020, and how has that changed more than a year later?
 
-[**Microsoft Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNzE3ZDA0YjktMDA1Ni00Yzg0LTg1ZmMtZmY3ZmQzODNiMzljIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+[**Microsoft Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMGI0OWUxZDctMDFlMy00OWVlLWEwMjMtNDlmMWEzYWViMjllIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSection21e07cdb6d3f0e3e7b30)
 
 [**Google Slides**](https://docs.google.com/presentation/d/178ULE6q6kWReSwQz3VcRTC91yKuVt5MiZrmko5m3J7E/edit?usp=sharing) Presentation
 
